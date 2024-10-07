@@ -4,4 +4,5 @@
 3: Number guessing game<br />
 4: Hash table algorithm<br/>
 5: Random password generator<br/>
-6: To-do list
+6: Rock Paper Scissors Lizard Spock<br />
+7: To-do list
